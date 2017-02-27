@@ -378,3 +378,13 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u110 {
+  border-width:0px;
+  position:absolute;
+  left:25px;
+  top:1276px;
+  width:1325px;
+  height:583px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
