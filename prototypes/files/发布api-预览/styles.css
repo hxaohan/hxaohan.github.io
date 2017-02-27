@@ -1,0 +1,148 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1366px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u654 {
+  position:fixed;
+  left:50%;
+  margin-left:-683px;
+  top:0px;
+}
+#u654_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:1366px;
+  height:115px;
+  background-image:none;
+}
+#u654_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u655_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1366px;
+  height:115px;
+}
+#u655 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1366px;
+  height:115px;
+}
+#u656 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:50px;
+  width:1362px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u657 {
+  border-width:0px;
+  position:absolute;
+  left:1088px;
+  top:60px;
+  width:116px;
+  height:40px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u658 {
+  border-width:0px;
+  position:absolute;
+  left:1214px;
+  top:60px;
+  width:112px;
+  height:40px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u659 {
+  border-width:0px;
+  position:absolute;
+  left:43px;
+  top:10px;
+  width:113px;
+  height:31px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u660_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1366px;
+  height:2442px;
+}
+#u660 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:115px;
+  width:1366px;
+  height:2442px;
+}
+#u661 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:1213px;
+  width:1362px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u662_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:123px;
+  height:35px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u662 {
+  border-width:0px;
+  position:absolute;
+  left:324px;
+  top:566px;
+  width:123px;
+  height:35px;
+}
+#u663 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:119px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
