@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:0 0 16px;
 }
 
 h1, h2, h3 {
@@ -105,6 +105,35 @@ a small {
 
 a:hover small {
   color:#777;
+}
+
+i {
+  color: #000000;
+  margin-right: 12px;
+}
+
+.fa-twitter:hover {
+  color: #1da1f2;
+}
+
+.fa-instagram:hover {
+  background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.fa-linkedin-square:hover {
+  color: #0084bf;
+}
+
+#avatar {
+  height: 100px;
+  width: 100px;
+  background-color: #fff159;
+}
+
+#find-me {
+  margin-top: 60px;
 }
 
 .wrapper {
