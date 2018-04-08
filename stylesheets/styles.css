@@ -256,8 +256,14 @@ header ul a strong {
 section {
   width:500px;
   float:right;
-  margin-top: 50px;
+
   padding-bottom:50px;
+}
+
+#nav-content {
+    color: #555;
+    list-style: none;
+    display: block;
 }
 
 small {
