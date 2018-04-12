@@ -1,0 +1,160 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  background-color: #fff;
+  font: 14px/1.5 "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #727272;
+  font-weight:400;
+}
+
+h1, h2, h3 {
+  line-height:1.1;
+}
+
+h1 {
+  font-size:26px;
+  text-align: center;
+  font-weight: 600;    
+}
+
+li a {
+  color: #919191;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2A4D2A;
+  text-decoration: underline;    
+}
+
+#avatar {
+    padding-top: 96px;
+    padding-bottom: 27px;
+    position: relative;
+    text-align: center;
+    
+}
+
+/*.fa-twitter:hover {
+  color: #1da1f2;
+}
+
+.fa-instagram:hover {
+  background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.fa-linkedin-square:hover {
+  color: #0084bf;
+}*/
+#banner {
+    height: 370px;
+    width: 100%;
+    background-image: url('banner.jpg');
+    background-position: bottom center;
+    background-color: #cccccc;
+    background-size: cover;
+}
+
+.content {
+    position: relative;
+    text-align: center;
+    color: #fff;
+}
+
+.content p {
+    margin-top: 8px;
+}
+
+#nav {
+    text-align: center;
+    padding-top: 36px;
+}
+
+.nav-item li {
+    display: inline-block;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 18px;
+    font-weight: 300;
+    color: #919191;
+}
+
+li.current-item a {
+    color: #2A4D2A;
+}
+
+section .container {
+  padding-top: 70px;    
+  padding-bottom: 50px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;    
+}
+
+.projects {
+    box-sizing: border-box;
+    position: relative;
+    width: 33.33333%;
+    border: 1px solid #2A4D2A;
+    margin-bottom: 40px;    
+}
+
+.project-img img {
+    width: 100%;
+    height: auto;
+}
+
+
+footer {
+  width:270px;
+  float:left;
+  position:fixed;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+/* media query */
+
+@media print, screen and (max-width: 960px) {
+
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
+
+  header, section, footer {
+    float:none;
+    position:static;
+    width:auto;
+  }
+
+  header {
+    padding-right:320px;
+  }
+
+}
+
+@media only screen and (max-width: 720px) {
+  body {
+    word-wrap:break-word;
+  }
+
+  header {
+    padding:0;
+  }
+
+  pre, code {
+    word-wrap:normal;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+
+  }
