@@ -1865,7 +1865,7 @@ col, .col2 {
 }
 
     .map {
-        width: 80%;
+        width: 100%;
         margin-left: auto;
         margin-right: auto;
 }
@@ -2457,7 +2457,7 @@ col, .col2 {
 
 		.wrapper .inner {
 			margin: 0 auto;
-			width: 80em;
+			width: 100%;
 			position: relative;
 			z-index: 99;
 		}
