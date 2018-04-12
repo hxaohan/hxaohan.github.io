@@ -1590,9 +1590,9 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "STSong", "Scope One", serif;
+		font-family: "source-han-serif-tc", serif;
 		font-size: 13pt;
-		font-weight: 300;
+		font-weight: 400;
 		line-height: 1.65;
 	}
 
