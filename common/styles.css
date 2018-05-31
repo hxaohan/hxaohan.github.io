@@ -88,29 +88,41 @@ a:hover {
 
 li.current-item a {
     color: #2A4D2A;
+    text-decoration: none;
 }
 
-section .container {
-  padding-top: 70px;    
-  padding-bottom: 50px;
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;    
+#portfolio {
+    width: 80%;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.projects {
+.container { 
+  padding: 0 0 0 0;
+  width: 100%;  
+}
+
+.project-item {
+    display: inline-block;
     box-sizing: border-box;
     position: relative;
     width: 33.33333%;
-    border: 1px solid #2A4D2A;
-    margin-bottom: 40px;    
+    margin-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .project-img img {
+    border: 1px solid #2A4D2A;
     width: 100%;
     height: auto;
 }
 
+.project-name {
+    text-align: center;
+    color: #2A4D2A;
+}
 
 footer {
   width:270px;
